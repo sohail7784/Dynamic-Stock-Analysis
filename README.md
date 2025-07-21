@@ -8,3 +8,4 @@ Visualization of best and worst performing stocks over time
 # Data Overview
 https://github.com/sohail7784/Dynamic-Stock-Analysis/blob/main/cleaned%20data.csv
 # Dashboard Overview
+https://github.com/sohail7784/Dynamic-Stock-Analysis/blob/main/stock%20analysis.pbix
