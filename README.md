@@ -7,5 +7,7 @@ Comparison of volume trends
 Visualization of best and worst performing stocks over time
 # Data Overview
 https://github.com/sohail7784/Dynamic-Stock-Analysis/blob/main/cleaned%20data.csv
-# Dashboard Overview
+# Dashboard File
 https://github.com/sohail7784/Dynamic-Stock-Analysis/blob/main/stock%20analysis.pbix
+# Dashboard Overview
+https://github.com/sohail7784/Dynamic-Stock-Analysis/blob/main/Screenshot%202025-07-21%20233945.png
